@@ -1,6 +1,28 @@
 h1 {
 color: blue;
 }
+
 p {
     color: palevioletred;
+}
+img{
+width: 250px;
+height: auto;
+}
+
+body {
+    background-color: aquamarine;
+    margin: 0 auto;
+}
+
+#titlebox {
+background-color: aquamarine;
+margin: 5px;
+border: 15px solid wheat;
+}
+
+.listBox {
+background-color: aquamarine;
+margin: 35px;
+border: 1px dotted palevioletred;
 }
