@@ -12,7 +12,8 @@ height: auto;
 
 body {
     background-color: aquamarine;
-    margin: 0 auto;
+    text-align: center;
+    margin: 10px auto;
 }
 
 #titlebox {
@@ -21,8 +22,8 @@ margin: 5px;
 border: 15px solid wheat;
 }
 
-.listBox {
-background-color: aquamarine;
+.listbox {
+background-color:plum;
 margin: 35px;
-border: 1px dotted palevioletred;
+border: 1px dotted rgb(216, 112, 147);
 }
